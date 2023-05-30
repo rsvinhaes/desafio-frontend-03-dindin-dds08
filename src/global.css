@@ -1,0 +1,14 @@
+.container {
+    background-image: url('../src/assets/image.svg');
+
+    min-height: 100vh;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    position: relative;
+}

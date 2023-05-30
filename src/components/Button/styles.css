@@ -1,0 +1,10 @@
+.btn button {
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    /* background-color: #7978D9; */
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.form-container-login {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.form-container-login label {
+    color: #484848;
+}
+
+.form-container-login input {
+    background: #FFFFFF;
+    border: 1px solid #555555;
+    border-radius: 5px;
+    padding-left: 14px;
+}

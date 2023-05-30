@@ -1,0 +1,35 @@
+.container-header {
+    background-image: url('../../assets/header.svg');
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.logo-main {
+    margin-top: 42px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.header-login {
+    margin-top: 42px;
+    margin-right: 100px;
+    width: 130px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.header-login h1 {
+    width: 44px;
+    height: 17px;
+    color: #ffffff;
+    margin: 0px 16px 0px 8px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+}
